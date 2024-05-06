@@ -1,0 +1,9 @@
+.env
+.micromamba
+.metaflow
+option-01/__pycache__
+option-01/.ipynb_checkpoints
+option-02/__pycache__
+option-02/.ipynb_checkpoints
+option-03/__pycache__
+option-03/.ipynb_checkpoints
